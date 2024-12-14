@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/visualization_project/static/css/main.e8db2b45.css",
+    "main.js": "/visualization_project/static/js/main.b44ccbcf.js",
+    "index.html": "/visualization_project/index.html",
+    "main.e8db2b45.css.map": "/visualization_project/static/css/main.e8db2b45.css.map",
+    "main.b44ccbcf.js.map": "/visualization_project/static/js/main.b44ccbcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8db2b45.css",
+    "static/js/main.b44ccbcf.js"
+  ]
+}
